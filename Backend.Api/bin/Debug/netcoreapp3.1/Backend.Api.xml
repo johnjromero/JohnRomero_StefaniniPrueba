@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Backend.Api</name>
+    </assembly>
+    <members>
+        <member name="T:Backend.Api.Controllers.TransactionController">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Backend.Api.Controllers.TransactionController.#ctor(AutoMapper.IMapper,Backend.Api.Log.IAuditor,Backend.Core.Interfaces.IAuditReportService,Backend.Core.Interfaces.IBankAccountService,Backend.Core.Interfaces.IBankingTransactionService)">
+            <summary>
+            
+            </summary>
+            <param name="mapper"></param>
+            <param name="auditor"></param>
+            <param name="auditReportService"></param>
+            <param name="bankAccountService"></param>
+            <param name="bankingTransactionService"></param>
+        </member>
+        <member name="M:Backend.Api.Controllers.TransactionController.Get(Backend.Core.QueryFilters.BankingTransactionQueryFilter)">
+            <summary>
+            Consulta todas las transacciones bancarias
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Backend.Api.Controllers.TransactionController.CreateBankingTransaction(Backend.Core.Dtos.BankingTransactionCreateDto)">
+            <summary>
+            Crea una transacción de retiro o transferencia
+            </summary>
+            <param name="transactionCreateDto"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Backend.Api.Log.Auditor.CreateAudit(System.String,Backend.Core.Enumerations.OperationType,Microsoft.AspNetCore.Http.HttpContext,System.Boolean)">
+            <summary>
+            
+            </summary>
+            <param name="module"></param>
+            <param name="operation"></param>
+            <param name="httpContext"></param>
+            <param name="success"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

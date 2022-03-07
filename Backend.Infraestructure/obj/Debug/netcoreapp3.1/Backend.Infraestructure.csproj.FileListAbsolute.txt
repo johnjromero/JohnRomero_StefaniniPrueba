@@ -1,0 +1,13 @@
+C:\Users\Juan Stevan\source\repos\Stefanini\JohnRomero\Backend.Infraestructure\bin\Debug\netcoreapp3.1\Backend.Infraestructure.deps.json
+C:\Users\Juan Stevan\source\repos\Stefanini\JohnRomero\Backend.Infraestructure\bin\Debug\netcoreapp3.1\Backend.Infraestructure.dll
+C:\Users\Juan Stevan\source\repos\Stefanini\JohnRomero\Backend.Infraestructure\bin\Debug\netcoreapp3.1\Backend.Infraestructure.pdb
+C:\Users\Juan Stevan\source\repos\Stefanini\JohnRomero\Backend.Infraestructure\bin\Debug\netcoreapp3.1\Backend.Core.dll
+C:\Users\Juan Stevan\source\repos\Stefanini\JohnRomero\Backend.Infraestructure\bin\Debug\netcoreapp3.1\Backend.Core.pdb
+C:\Users\Juan Stevan\source\repos\Stefanini\JohnRomero\Backend.Infraestructure\obj\Debug\netcoreapp3.1\Backend.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\Juan Stevan\source\repos\Stefanini\JohnRomero\Backend.Infraestructure\obj\Debug\netcoreapp3.1\Backend.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Stevan\source\repos\Stefanini\JohnRomero\Backend.Infraestructure\obj\Debug\netcoreapp3.1\Backend.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\Juan Stevan\source\repos\Stefanini\JohnRomero\Backend.Infraestructure\obj\Debug\netcoreapp3.1\Backend.Infraestructure.AssemblyInfo.cs
+C:\Users\Juan Stevan\source\repos\Stefanini\JohnRomero\Backend.Infraestructure\obj\Debug\netcoreapp3.1\Backend.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\Juan Stevan\source\repos\Stefanini\JohnRomero\Backend.Infraestructure\obj\Debug\netcoreapp3.1\Backend.Infraestructure.csproj.CopyComplete
+C:\Users\Juan Stevan\source\repos\Stefanini\JohnRomero\Backend.Infraestructure\obj\Debug\netcoreapp3.1\Backend.Infraestructure.dll
+C:\Users\Juan Stevan\source\repos\Stefanini\JohnRomero\Backend.Infraestructure\obj\Debug\netcoreapp3.1\Backend.Infraestructure.pdb
