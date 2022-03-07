@@ -5382,25 +5382,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Juan Stevan\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\John R\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Juan Stevan\\source\\repos\\Stefanini\\JohnRomero\\Backend.Api\\Backend.Api.csproj",
+      "projectUniqueName": "C:\\Users\\John R\\Desktop\\Stefanini\\JohnRomero\\Backend.Api\\Backend.Api.csproj",
       "projectName": "Backend.Api",
-      "projectPath": "C:\\Users\\Juan Stevan\\source\\repos\\Stefanini\\JohnRomero\\Backend.Api\\Backend.Api.csproj",
-      "packagesPath": "C:\\Users\\Juan Stevan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Juan Stevan\\source\\repos\\Stefanini\\JohnRomero\\Backend.Api\\obj\\",
+      "projectPath": "C:\\Users\\John R\\Desktop\\Stefanini\\JohnRomero\\Backend.Api\\Backend.Api.csproj",
+      "packagesPath": "C:\\Users\\John R\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\John R\\Desktop\\Stefanini\\JohnRomero\\Backend.Api\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Juan Stevan\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\John R\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -5411,13 +5406,12 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Juan Stevan\\source\\repos\\Stefanini\\JohnRomero\\Backend.Core\\Backend.Core.csproj": {
-              "projectPath": "C:\\Users\\Juan Stevan\\source\\repos\\Stefanini\\JohnRomero\\Backend.Core\\Backend.Core.csproj"
+            "C:\\Users\\John R\\Desktop\\Stefanini\\JohnRomero\\Backend.Core\\Backend.Core.csproj": {
+              "projectPath": "C:\\Users\\John R\\Desktop\\Stefanini\\JohnRomero\\Backend.Core\\Backend.Core.csproj"
             },
-            "C:\\Users\\Juan Stevan\\source\\repos\\Stefanini\\JohnRomero\\Backend.Infraestructure\\Backend.Infraestructure.csproj": {
-              "projectPath": "C:\\Users\\Juan Stevan\\source\\repos\\Stefanini\\JohnRomero\\Backend.Infraestructure\\Backend.Infraestructure.csproj"
+            "C:\\Users\\John R\\Desktop\\Stefanini\\JohnRomero\\Backend.Infraestructure\\Backend.Infraestructure.csproj": {
+              "projectPath": "C:\\Users\\John R\\Desktop\\Stefanini\\JohnRomero\\Backend.Infraestructure\\Backend.Infraestructure.csproj"
             }
           }
         }
@@ -5430,7 +5424,6 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
-        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "AutoMapper.Extensions.Microsoft.DependencyInjection": {
             "target": "Package",
@@ -5463,7 +5456,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
